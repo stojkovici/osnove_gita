@@ -8,3 +8,4 @@ svastara/*
 .properties
 .keys
 .pem
+bin/*
